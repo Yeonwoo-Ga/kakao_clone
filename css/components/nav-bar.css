@@ -42,3 +42,14 @@
     right:45px;
     bottom:45px;
 }
+
+.cog__dot{
+    background-color: tomato;
+    width:5px;
+    height:5px;
+    border-radius: 50%;
+    position:absolute;
+    display: flex;
+    right:20px;
+    top:30px;
+}
