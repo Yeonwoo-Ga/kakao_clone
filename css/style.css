@@ -16,6 +16,7 @@
 @import "/css/screens/more.css";
 @import "/css/components/alt-screen-header.css";
 @import "/css/screens/settings.css";
+@import "/css/screens/chat.css";
 body {
     color: #2e363e;;
     font-family: "Open Sans", sans-serif;

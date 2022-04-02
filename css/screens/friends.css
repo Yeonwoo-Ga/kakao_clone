@@ -31,3 +31,7 @@
 .user-component__column:last-child {
     color: black;
 }
+ 
+.main-screen a{
+    text-decoration: none;
+}
